@@ -1,0 +1,29 @@
+body{
+    background-color: yellow;
+    font-size: 12px;
+}
+.logo{
+    max-width: 150px;
+    max-height: 65px;
+}
+
+h3{
+    font-size: 24px;
+}
+
+p.precios{
+    font-size: 18px;
+}
+p.descuento{
+    font-size: 16px;
+}
+
+
+h5{
+    font-size: 16px;
+}
+
+.footer__section--article{
+    text-align: center;
+}
+
