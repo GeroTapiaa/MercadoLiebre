@@ -25,5 +25,9 @@ h5{
 
 .footer__section--article{
     text-align: center;
+    
+}
+.footer__section--article i.fa-solid{
+    font-size: 35px;
 }
 
